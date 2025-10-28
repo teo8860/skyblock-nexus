@@ -12,13 +12,13 @@
         {
             "purpose": "any",
             "sizes": "192x192", 
-            "src": "/logo-piccolo.png",
+            "src": "logo-piccolo.png",
             "type": "image/png"
         },
         {
             "purpose": "any",
             "sizes": "512x512",
-            "src": "/logo.png",
+            "src": "logo.png",
             "type": "image/png"
         }
 ]
