@@ -7,18 +7,18 @@
     "lang": "en",
     "name": "SkyBlock Nexus",
     "short_name": "SkyBlock Nexus",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "icons": [
         {
             "purpose": "any",
             "sizes": "192x192", 
-            "src": "/skyblock-nexus/logo-piccolo.png",
+            "src": "/logo-piccolo.png",
             "type": "image/png"
         },
         {
             "purpose": "any",
             "sizes": "512x512",
-            "src": "/skyblock-nexus/logo.png",
+            "src": "/logo.png",
             "type": "image/png"
         }
 ]
