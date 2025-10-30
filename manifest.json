@@ -2,7 +2,7 @@
   "theme_color": "#8936FF",
   "background_color": "#2EC6FE",
   "orientation": "any",
-  "display": "standalone",
+  "display": "fullscreen",
   "dir": "auto",
   "lang": "en",
   "name": "SkyBlock Nexus",
