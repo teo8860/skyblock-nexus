@@ -1,0 +1,20 @@
+/*
+ * App.css - Manteniamo solo gli stili generici che non sono nel tema neon.
+ * Tutte le classi .card, .logo, animazioni etc., sono state spostate 
+ * o sostituite da quelle in neon-style.css.
+ */
+
+/* Manteniamo solo il contenitore root per la centratura (se necessario) */
+#root {
+  margin: 0 auto;
+}
+
+/* Rimuoviamo gli stili non più usati o duplicati */
+/* Se avevi il .card qui, è stato sostituito da .neon-card in neon-style.css */
+
+/* Stili per il pulsante o link "Torna alla Home" se necessario (come nel tuo placeholder) */
+.back {
+  display: inline-block;
+  margin-bottom: 2rem;
+  font-weight: 500;
+}

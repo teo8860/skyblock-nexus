@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "es2022",
+    "target": "es2022",
+    "baseUrl": "./",
+    "ignoreDeprecations": "6.0"
+  },
+
+  "include": ["./**/*"]
+}
